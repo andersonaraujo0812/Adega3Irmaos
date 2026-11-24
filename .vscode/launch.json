@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SistemaAdega22",
+            "request": "launch",
+            "mainClass": "SistemaAdega22",
+            "projectName": "ProjetoIntegrador_22225e48"
+        },
+        {
+            "type": "java",
+            "name": "Adega3o",
+            "request": "launch",
+            "mainClass": "Adega3o",
+            "projectName": "ProjetoIntegrador_22225e48"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Adega3oretorno",
+            "request": "launch",
+            "mainClass": "Adega3oretorno",
+            "projectName": "ProjetoIntegrador_22225e48"
+        },
+        {
+            "type": "java",
+            "name": "SistemaAdega2",
+            "request": "launch",
+            "mainClass": "SistemaAdega2",
+            "projectName": "ProjetoIntegrador_22225e48"
+        }
+    ]
+}
