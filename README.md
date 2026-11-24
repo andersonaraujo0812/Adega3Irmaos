@@ -1,8 +1,8 @@
 # 🍷 Adega 3 Irmãos — Sistema Gerencial de Estoque Tributário
 
-Sistema de linha de comando em **Java** para gerenciar o estoque, as vendas e o caixa da adega **Adega 3 Irmãos**.
+Sistema de linha de comando em **Java** para gerenciar o estoque, as vendas e o caixa da **Adega 3 Irmãos**.
 
-Projeto desenvolvido por **Anderson de Araújo Júnior** no **1º semestre do curso de Análise e Desenvolvimento de Sistemas (ADS)** do **SENAC**.
+Projeto desenvolvido no **1º semestre do curso de Análise e Desenvolvimento de Sistemas (ADS)** do **SENAC**.
 
 > **Restrições do projeto:** sem Programação Orientada a Objetos (uma única classe, só métodos `static`) e sem banco de dados. Os dados ficam em **vetores paralelos** na memória e são perdidos ao fechar o programa.
 
@@ -112,7 +112,10 @@ Projeto acadêmico, de uso educacional.
 
 ---
 
-## Autor
+## Autores
 
 **Anderson de Araújo Júnior**
+**Thony Gomes Danschi**
+**Thomas Altman Souza**
+
 Curso de Análise e Desenvolvimento de Sistemas (ADS), SENAC
